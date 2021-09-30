@@ -25,3 +25,6 @@ The "number" is actually represented with a dynamic character array in this impl
 - Destructor
 - convertToString
 - strLen
+
+## Contact
+Need help? Got any queries? Feel free to hit me up at sanakahnn@gmail.com.
